@@ -1,6 +1,8 @@
-# OpenAI CLI Chat Application
+# AI Shell
 
 A simple and elegant command-line interface (CLI) application built with Python that allows you to interact with OpenAI's powerful language models (like gpt-3.5-turbo).
+
+![AI Shell Logo](assets/ai-shell-logo.png)
 
 ## Table of Contents
 
