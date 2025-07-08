@@ -20,7 +20,7 @@ def main():
                 break
 
             response = client.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4.1",
                 messages=[
                     {"role": "user", "content": user_input}
                 ]
